@@ -1,0 +1,6 @@
+name: Prueba
+on:
+  push:
+    branches: [master]
+
+jobs:
